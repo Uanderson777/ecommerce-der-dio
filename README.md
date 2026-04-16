@@ -18,7 +18,7 @@ Este repositório contém o DER atualizado conforme solicitado.
 
 A imagem do DER está disponível no arquivo abaixo:
 
-👉 **DER.png**
+DER-ecommerce-dio.png
 
 ---
 
